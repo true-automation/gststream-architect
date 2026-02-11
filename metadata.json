@@ -1,0 +1,9 @@
+
+{
+  "name": "GstStream Architect",
+  "description": "A high-level architect tool for designing and generating production-grade GStreamer multi-session RTMP streaming pipelines with python integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
